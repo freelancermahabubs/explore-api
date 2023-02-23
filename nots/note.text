@@ -1,0 +1,21 @@
+*** What is API?
+**** JSON.Stringify?
+*** JSON.parse
+
+*** Rest API Methods
+
+*** http status codes
+
+***Common InterView Questions***
+
+1. What is an API
+2. What are the HTTP Methods supported by Rest?
+3. Can you use GET Request instead of Put to Create a Resource?
+4. What is the difference between PUT and Post?
+5. What is JSON?
+6. What are CRUD Operations?
+7. What is the File Extension of JSON?
+8. What are the data Types Supported by JSON?
+9. What is the role of JSON.Stringify?
+10. Show how to parse a JSON?
+11. GET vs Post?
